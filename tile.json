@@ -1,9 +1,9 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Create App Template",
-		"link": "http://bluemix.net",
-		"description" : "Create an app template using mobile"
+		"text" : "Choose UI Starter",
+		"link": "/mobile/create-project",
+		"description" : "Create an app with a UI Starter"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/blue.png",
 	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/blue-icon.png"

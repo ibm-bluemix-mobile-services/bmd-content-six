@@ -1,3 +1,3 @@
-# New App Template
+# New UI Starter
 
-Choose a template that best matches your use and customize the app using IBM Mobile App Builder. Alternatively, download the code and use it as a starting point.
+Choose a UI Starter that best matches your use and customize the app using the UI Builder. Alternatively, download the code and use it as a starting point.
