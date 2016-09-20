@@ -3,7 +3,9 @@
 		"type": "url",
 		"text" : "Code Starter - Weather",
 		"link": "/mobile/create-project",
-		"description" : "Use the Weather Code Starter to create your project"
+		"description" : "Use the Weather Code Starter to create your project",
+		"newTab" : false,
+		"altText" : "Code Starter - Weather"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png",
 	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png"
