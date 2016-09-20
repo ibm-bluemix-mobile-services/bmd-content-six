@@ -1,3 +1,4 @@
-# New UI Starter
+# Code Starter - Weather
+## Create a Weather project with this Code Starter
 
-Choose a UI Starter that best matches your use and customize the app using the UI Builder. Alternatively, download the code and use it as a starting point.
+Choose the Weather Code Starter to create your project. You can use Swift with Weather to show the current temperature or the weekly forcast for any point on a map.

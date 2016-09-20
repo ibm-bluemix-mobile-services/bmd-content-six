@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Choose UI Starter",
+		"text" : "Code Starter - Weather",
 		"link": "/mobile/create-project",
-		"description" : "Create an app with a UI Starter"
+		"description" : "Use the Weather Code Starter to create your project"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/blue.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/blue-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png"
 }
