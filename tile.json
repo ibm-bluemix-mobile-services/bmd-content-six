@@ -7,6 +7,6 @@
 		"newTab" : false,
 		"altText" : "Code Starter - Weather"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/temp_weather.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/weather.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-six/master/weather.png"
 }
