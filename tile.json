@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Mobile Client Access",
-		"link": "../../docs/services/mobileclientaccess/index.html",
+		"link": "../../docs/services/mobileaccess/index.html",
 		"description" : "Mobile Client Access",
 		"newTab" : true,
 		"altText" : "Mobile Client Access"
