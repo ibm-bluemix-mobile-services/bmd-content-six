@@ -1,3 +1,3 @@
-# Mobile Client Access
+# Code Starter - Weather
 
-Learn more about our Mobile Client Access service.
+Choose the Weather Code Starter to create your project. You can show the current temperature or the weekly forecast for any point on a map.

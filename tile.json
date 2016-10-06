@@ -1,12 +1,12 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Mobile Client Access",
-		"link": "../../docs/services/mobileaccess/index.html",
-		"description" : "Mobile Client Access",
+		"text" : "Code Starter - Weather",
+		"link": "../../docs/mobile/tutorial_weather.html",
+		"description" : "Use the Weather Code Starter to create your project",
 		"newTab" : true,
-		"altText" : "Mobile Client Access"
+		"altText" : "Code Starter - Weather"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/authentication.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/authentication.svg"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/weather.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/weather.svg"
 }
