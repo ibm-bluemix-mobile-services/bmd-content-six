@@ -7,6 +7,14 @@
 		"newTab" : true,
 		"altText" : "Code Starter - Weather"
 	},
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "GET STARTED",
+		"link" : "../create-project?starter=fad1d49e-f7b6-3aff-9b53-14673fca4399",
+		"description" : "Code Starter - Weather",
+		"newTab" : false,
+		"altText" : "GET STARTED"
+	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/weather.svg",
 	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/weather.svg"
 }
