@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="417px" height="154px" viewBox="0 0 417 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>subhero_whisk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="starters" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="subhero_whisk">
+            <rect id="bg" fill="#C0E6FF" x="0" y="0" width="417" height="154"></rect>
+            <g id="phone" transform="translate(138.000000, 21.000000)">
+                <path d="M0.5,133.5 L0.5,17.2184466 C0.5,7.98429122 7.92599996,0.5 17.0882352,0.5 L124.911764,0.5 C134.073999,0.5 141.5,7.98429122 141.5,17.2184466 L141.5,133.5" stroke="#264A60" fill="#FFFFFF"></path>
+                <path d="M0.5,30.5 L140.5,30.5" id="Line" stroke="#264A60" stroke-linecap="square"></path>
+                <path d="M86.123182,17.7864078 L58.3868182,17.7864078 C57.6212945,17.7864078 57,17.1622524 57,16.3932039 C57,15.6241553 57.6212945,15 58.3868182,15 L86.123182,15 C86.8887057,15 87.5100002,15.6241553 87.5100002,16.3932039 C87.5100002,17.1622524 86.8887057,17.7864078 86.123182,17.7864078 Z" id="speaker" fill="#264A60"></path>
+            </g>
+            <g id="whisk_icon_full-color" transform="translate(177.000000, 71.000000)">
+                <g id="Layer_1">
+                    <g id="Group" transform="translate(0.000000, 11.700000)">
+                        <g transform="translate(22.100000, 0.000000)" id="Shape">
+                            <polygon fill="#008571" points="32.37 36.53 11.44 0.13 32.37 0.13 42.9 18.33"></polygon>
+                            <polygon fill="#6EEDD8" points="11.44 0.13 0.91 18.33 21.84 18.33"></polygon>
+                        </g>
+                        <g transform="translate(0.000000, 5.200000)" id="Shape">
+                            <polygon fill="#325C80" points="10.4 0.13 31.2 36.53 10.4 36.53 0 18.33"></polygon>
+                            <polygon fill="#5AAAFA" points="20.8 18.33 31.2 36.53 41.6 18.33"></polygon>
+                        </g>
+                    </g>
+                    <g id="vJgsOq.tif"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
