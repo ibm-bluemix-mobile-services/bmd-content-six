@@ -1,3 +1,3 @@
-# New App Template
+# Code Starter - OpenWhisk
 
-Choose a template that best matches your use and customize the app using IBM Mobile App Builder. Alternatively, download the code and use it as a starting point.
+Choose the OpenWhisk Code Starter to create your project. You can configure your project to run your OpenWhisk actions.

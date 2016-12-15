@@ -1,10 +1,20 @@
 {
 	"action" : {
-		"type": "url",
-		"text" : "Create App Template",
-		"link": "http://bluemix.net",
-		"description" : "Create an app template using mobile"
+		"type" : "url",
+		"text" : "Code Starter - OpenWhisk",
+		"link" : "../../docs/mobile/tutorial_openwhisk.html",
+		"description" : "Use the OpenWhisk Code Starter to create your project",
+		"newTab" : true,
+		"altText" : "Code Starter - OpenWhisk"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval2/ef8f4ed9f866aded8f1ee73ef42a3bbbfecd926e/blue.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval2/master/blue-icon.png"
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "GET STARTED",
+		"link" : "../create-project?starter=c97de194-13b8-341d-9f9d-50b11679a089",
+		"description" : "Code Starter - OpenWhisk",
+		"newTab" : false,
+		"altText" : "GET STARTED"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-eight/openwhisk.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-eight/openwhisk.svg"
 }
