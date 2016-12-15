@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="417px" height="154px" viewBox="0 0 417 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Mca-subhero</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="starters" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mca-subhero">
+            <rect id="bg" fill="#C0E6FF" x="0" y="0" width="417" height="154"></rect>
+            <g id="phone" transform="translate(138.000000, 21.000000)">
+                <path d="M0.5,133.5 L0.5,17.2184466 C0.5,7.98429122 7.92599996,0.5 17.0882352,0.5 L124.911764,0.5 C134.073999,0.5 141.5,7.98429122 141.5,17.2184466 L141.5,133.5" stroke="#264A60" fill="#FFFFFF"></path>
+                <path d="M1.5,30.5 L141.5,30.5" id="Line" stroke="#264A60" stroke-linecap="square"></path>
+                <path d="M87.123182,17.7864078 L59.3868182,17.7864078 C58.6212945,17.7864078 58,17.1622524 58,16.3932039 C58,15.6241553 58.6212945,15 59.3868182,15 L87.123182,15 C87.8887057,15 88.5100002,15.6241553 88.5100002,16.3932039 C88.5100002,17.1622524 87.8887057,17.7864078 87.123182,17.7864078 Z" id="speaker" fill="#264A60"></path>
+            </g>
+            <g id="authentication" transform="translate(178.000000, 76.000000)">
+                <g id="Layer_1">
+                    <g id="Group">
+                        <circle id="Oval" fill="#AAF3E8" cx="32.5" cy="15.4" r="14.9"></circle>
+                        <path d="M63,52 C63,36 50.3,23.5 34.5,23.5 C18.7,23.5 6.1,36 6.1,52 L63,52 L63,52 Z" id="Shape" fill="#AAF3E8"></path>
+                        <circle id="Oval" fill="#00B4A0" cx="28.5" cy="15.4" r="14.9"></circle>
+                        <path d="M56.9,52 C56.9,36 44.2,23.5 28.5,23.5 C12.8,23.5 0,36 0,52 L56.9,52 L56.9,52 Z" id="Shape" fill="#00B4A0"></path>
+                    </g>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#5AAAFA" cx="42.2" cy="40.3" r="19.2"></circle>
+                    <polygon id="Shape" fill="#FFFFFF" points="38.6 44.2 32.9 38.4 30.4 40.9 38.6 49.2 54 33.9 51.5 31.4"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
