@@ -1,20 +1,21 @@
 {
 	"action" : {
 		"type" : "url",
-		"text" : "Code Starter - OpenWhisk",
-		"link" : "../../docs/mobile/tutorial_openwhisk.html",
-		"description" : "Use the OpenWhisk Code Starter to create your project",
+		"text" : "Learn More",
+		"link" : "../../docs/cloudnative/patterns.html#microservice",
+		"description" : "Learn More",
 		"newTab" : true,
-		"altText" : "Code Starter - OpenWhisk"
+		"altText" : "Learn More"
 	},
 	"alternateAction" : {
 		"type" : "url",
-		"text" : "GET STARTED",
-		"link" : "../create-project?starter=c97de194-13b8-341d-9f9d-50b11679a089",
-		"description" : "Code Starter - OpenWhisk",
+		"text" : "Get Started",
+		"link" : "../create-project/?pattern=MICROSERVICE",
+		"description" : "Get Started",
 		"newTab" : false,
-		"altText" : "GET STARTED"
+		"altText" : "Get Started"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/openwhisk.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-six/openwhisk.svg"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
+	"tag" : "App Pattern"
 }
